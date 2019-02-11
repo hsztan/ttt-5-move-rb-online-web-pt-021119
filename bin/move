@@ -2,5 +2,5 @@
 
 require_relative '../lib/move.rb'
 
-board = ["X", "X", "X", "X", "X", "X", "X", "X"]
+board = ["", "", "", "", "", "", "", "", ""]
 display_board(board)
